@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-spring
-  memory: 768M
-  instances: 1
+- name: cf-spring-michele
+  memory: 756M
+  instances: 2
   random-route: true
